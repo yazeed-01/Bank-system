@@ -206,7 +206,8 @@ def open_login_page():
         bg="#D9D9D9",
         fg="#000716",
         highlightthickness=0,
-        font=("Arial Bold", 20)
+        font=("Arial Bold", 20),
+        show="*"
     )
     entry_2.place(
         x=393.0,
