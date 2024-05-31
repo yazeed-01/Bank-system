@@ -5,3 +5,5 @@ Has many features:
   2. Withdrawals: Remove funds from an account.
   3. Transfers: Move funds between accounts seamlessly
   4. Data Updates: Maintain account information accuracy
+
+-Run home.py to start
